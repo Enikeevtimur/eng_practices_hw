@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ruff_cache/
+*.py[cod]
+.env
+.env.*
+kaggle.json
+access_token
+/data/raw/
+/artifacts/
+.DS_Store
+
+.idea/
